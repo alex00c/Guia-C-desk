@@ -26,5 +26,3 @@ cualquier problema en la infraestructura
 **[- Mediante Clouding](clouding.md)**
 
 **[- Alojamiento propio](/Alojamiento.md)**
-
-prueba
