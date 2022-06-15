@@ -18,4 +18,8 @@ cualquier problema en la infraestructura
 - Excelente relación funcionalidad/precio.
 - Disponible en Español
 
-## Prueba
+#### Existen dos modos de usar el servicio :
+
+**- Mediante Clouding**  
+
+**-  Alojandolo nosotros mismos**
