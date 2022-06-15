@@ -18,8 +18,11 @@ cualquier problema en la infraestructura
 - Excelente relación funcionalidad/precio.
 - Disponible en Español
 
-#### Existen dos modos de usar el servicio :
 
-**- Mediante Clouding**  
+#### Existen dos modos de usar el servicio ####
 
-**-  Alojandolo nosotros mismos**
+
+
+**[- Mediante Clouding](clouding.md)**
+
+**[- Alojamiento propio](/Alojamiento.md)**
