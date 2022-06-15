@@ -89,3 +89,4 @@ Esta pestaña sirve para anotar todas las peticiones para mantenimiento.
 Esta pestaña sirve para anotar los contratos que realicen para la empresa.
 
 ![Contratos](img/cloud15.png)
+
