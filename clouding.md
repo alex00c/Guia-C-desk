@@ -20,12 +20,7 @@ Hecho esto, ya estaríamos dentro de la aplicación.
 
 ![Aplicación](img/cloud5.png)
 
-#### Configuración  en la nube
-
-La principal pestaña que nos interesa es la llamada "Instance Configurations"
-En esta, configuraremos todo lo relacionado con como se ve nuestra empresa y como se conoce a la misma.
-
-![Empresa](img/cloud6.png)
+### Opciones para el administrador
 
 ##### Actividades
 
@@ -89,4 +84,84 @@ Esta pestaña sirve para anotar todas las peticiones para mantenimiento.
 Esta pestaña sirve para anotar los contratos que realicen para la empresa.
 
 ![Contratos](img/cloud15.png)
+
+### Ajustes
+
+#### Configuración de las instancias
+
+En esta, configuraremos todo lo relacionado con como se ve nuestra empresa y como se conoce a la misma.
+
+![Empresa](img/cloud6.png)
+
+#### Usuarios y permisos
+
+En esta pantalla podremos configurar que usuarios va a tener nuestra empresa y los permisos para estos.
+
+![Usuarios y permisos](img/cloud17.png)
+
+#### Ajustes de correo
+
+En esta pantalla podremos configurar el mail de nuestra empresa, así como por donde salen, cuales considerar spam y otras funciones.
+
+![Correo](img/cloud18.png)
+
+#### Customización
+
+En esta pantalla podremos personalizar como veremos todas las pestañas de la izquierda, así como que saldrá para cada problema.
+
+![Customización](img/cloud19.png)
+
+#### Plantillas y fomularios
+
+En esta pantalla podremos usar plantillas y formularios para como se verán en cuanto el técnico entre a la aplicación online.
+
+![Plantillas y fomularios](img/cloud20.png)
+
+#### Automatización
+
+En esta pantalla se utilizará para programar que el sistema automáticamente te de soluciones para problemas que ya hayan sucedido anteriormente.
+
+![Automatización](img/cloud21.png)
+
+#### Pruebas y descubrimientos
+
+En esta pantalla la utilizaremos para apuntar todas las pruebas y descubrimiento que realize la empresa.
+
+![Pruebas y descubrimientos](img/cloud22.png)
+
+#### Encuestas
+
+En esta pantalla podremos crear encuestas para los clientes, usuarios o administradores de la empresa.
+
+![Encuestas](img/cloud23.png)
+
+#### Administración de datos
+
+En esta pantalla podremos administrar los datos que llegan a nuestro servidor dentro de la empresa.
+
+![Customización](img/cloud24.png)
+
+#### Ajustes generales
+
+En esta pantalla podremos configurar los ajustes generales de la aplicación.
+
+![Ajustes generales](img/cloud25.png)
+
+#### Aplicaciones y add-ons
+
+En esta pantalla podremos configurar diversas aplicaciones tales como un chat, que los usuarios puedan ver proyectos, etc...
+
+![Aplicaciones y add-ons](img/cloud26.png)
+
+#### Espacio para los desarrolladores
+
+En esta pantalla los desarrolladores podrán subir código o cambiar el mismo dentro de la aplicación online.
+
+![Espacio para los desarrolladores](img/cloud27.png)
+
+#### Zia(inteligencia artifical)
+
+En esta pantalla podremos dar permisos a Zia, una IA que nos permite facilitar el uso de la aplicación además de resolver a los usuarios problemas que esta como tal aprende de la aplicación.
+
+![Inteligencia artifical](img/cloud28.png)
 
