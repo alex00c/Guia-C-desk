@@ -21,8 +21,6 @@ cualquier problema en la infraestructura
 
 #### Existen dos modos de usar el servicio
 
-
-
 **[- Mediante Clouding](clouding.md)**
 
 **[- Alojamiento propio](/Alojamiento.md)**
