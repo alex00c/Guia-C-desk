@@ -47,7 +47,7 @@ Esta pestaña la usaremos para informar de los problemas tanto de los usuarios c
 
 Esta pestaña la usaremos para informar de los cambios hechos dentro de la empresa.
 
-![Cambios](img/cloud9.png)
+![Cambios](/img/cloud9.jpeg)
 
 ##### Proyectos
 
