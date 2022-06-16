@@ -3,7 +3,7 @@
  ![Ejemplo](img/intro.jpg)
  
  
- ## Uso de un software de organizacion
+**Uso de un software de organizacion**
 
 Permite la gestión de incidencias, problemas, cambios y proyectos, gestión del inventario, seguimiento de pedidos de compra y
 contratos de mantenimiento, SLAs, gestión de conocimientos, encuestas de satisfacción y mucho más. Se destaca el módulo de
@@ -19,7 +19,7 @@ cualquier problema en la infraestructura
 - Disponible en Español
 
 
-#### Existen dos modos de usar el servicio
+**Existen dos modos de usar el servicio**
 
 
 
